@@ -1,5 +1,5 @@
 torrents 
 ========
-![Indexed](https://img.shields.io/badge/indexed-264314-blue)
+![Indexed](https://img.shields.io/badge/indexed-264391-blue)
 
 Collection of torrent files discovered in the DHT network
